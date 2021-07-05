@@ -5,24 +5,23 @@ body {
 h1 {
   font-size: 50px;
 }
-.font1 {
+.color-orange {
   color: orange;
 }
 section {
   display: flex;
-  margin-bottom: 150px;
 }
 .half-width {
   width: 50%;
-  padding: 2px;
+  padding-left: 2%;
 }
 .half-width img {
   width: 80%;
 }
-.link-button {
+.link-batton {
   text-decoration: none;
   background-color: orange;
-  padding: 10px, 40px;
+  padding: 10px 40px;
   border-radius: 5px;
   background-image: linear-gradient(orange, tomato);
   color: white;
@@ -31,9 +30,4 @@ section {
 .top-banner {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
-}
-.dream-big {
-  background-image: url(images/top-banner.png);
-  background-repeat: no-repeat;\
-background-position: right: ;;
 }
